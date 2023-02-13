@@ -1,0 +1,20 @@
+# FORM
+Title: "Kompnesasi"
+Content: "Edit In Config.yml"
+Button-Name: "§lClaim Reward\n§rTap To Enter!"
+msg-failed: "§cMaaf kamu sudah Mendapatkan hadiah ini :)"
+msg-sukses: "§akamu berhasil mendapatkan hadiah"
+
+# REWARD
+Reward:
+  - "givemoney {player} 1000"
+  - "givemoney {player} 99999"
+
+# WARNING
+Name: 7TogkKompensasi
+Type: B AJA
+Author: Angga7Togk
+Buy: 0882009557659
+Instagram: Angga7Togk
+Warning: Dilarang Di Jual Ulang! Jika Masih Ngeyel Menjual Ulang, Admin Bakal Melakukan
+  Tindakan Tegas!

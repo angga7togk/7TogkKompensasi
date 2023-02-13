@@ -1,0 +1,14 @@
+name: 7TogkKompensasi
+main: Angga7Togk\Kompensasi\Main
+version: 1.0.0
+api: 4.0.0
+author: Angga7Togk
+
+commands:
+  kompensasi:
+    description: "Claim Kompensasi"
+    permission: kms.use
+
+permissions:
+  kms.use:
+    default: true
